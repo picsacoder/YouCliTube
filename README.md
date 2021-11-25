@@ -14,9 +14,9 @@ $ git clone https://github.com/picsacoder/YouCliTube
 ```
 
 ```
-cd YouCliTube
+$ cd YouCliTube
 ```
 
 ```
-npm start
+$ npm start
 ```
